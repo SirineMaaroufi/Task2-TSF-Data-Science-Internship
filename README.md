@@ -1,4 +1,3 @@
-# Task2-TSF-Data-Science-Internship
 # Task2: Prediction using Unsupervised Machine Learning
 ## Problem:
 ###  Predict the optimum number of clusters and represent it visually
